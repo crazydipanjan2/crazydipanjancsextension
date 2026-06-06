@@ -1,0 +1,568 @@
+[
+    {
+        "iconUrl": "https://play-lh.googleusercontent.com/G9s84Cm1TDnKDX2P8nipS_s60cuCnYtjBRRLespF8nivjXmbV9tF1fY37clZhXMLaA",
+        "fileHash": "sha256-33512a0e69b16b434a7952e2fa11df0f61752652375733c7b815b0160b16a918",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/crazydipanjan2/crazydipanjancsextension",
+        "fileSize": 81417,
+        "status": 3,
+        "language": "ta",
+        "authors": [
+            "NivinCNC"
+        ],
+        "tvTypes": [
+            "Anime",
+            "Movies",
+            "TvSeries",
+            "Documentary"
+        ],
+        "version": 15,
+        "internalName": "BilibiliProvider",
+        "description": "Bilibili TV - International streaming platform for anime, movies, and variety shows (bilibili.tv)",
+        "url": "https://raw.githubusercontent.com/crazydipanjan2/crazydipanjancsextension/builds/BilibiliProvider.cs3",
+        "name": "BilibiliProvider"
+    },
+    {
+        "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/CastleTvProvider/icon.png",
+        "fileHash": "sha256-a4998048fc1c5b29d84ade0c96b9e65b8486bd8f948a56a4d38fde2999f3518f",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/crazydipanjan2/crazydipanjancsextension",
+        "fileSize": 65684,
+        "status": 1,
+        "language": "ta",
+        "authors": [
+            "CNCVerse"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 20,
+        "internalName": "CastleTvProvider",
+        "description": "Castle TV Movies and Series Provider",
+        "url": "https://raw.githubusercontent.com/crazydipanjan2/crazydipanjancsextension/builds/CastleTvProvider.cs3",
+        "name": "CastleTvProvider"
+    },
+    {
+        "iconUrl": "https://modapk.world/wp-content/uploads/2025/11/Et-90x90.png",
+        "fileHash": "sha256-2cf0fd24431e018aec80d2cc31f4f672d8d14c5e80886613f92e8065f02830a7",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/crazydipanjan2/crazydipanjancsextension",
+        "fileSize": 38166,
+        "status": 1,
+        "language": "ta",
+        "authors": [
+            "CNCVerse"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 14,
+        "internalName": "CineTvProvider",
+        "description": "Clone of Cinema, Memesapp , FilmTV etc",
+        "url": "https://raw.githubusercontent.com/crazydipanjan2/crazydipanjancsextension/builds/CineTvProvider.cs3",
+        "name": "CineTvProvider"
+    },
+    {
+        "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/CNC%20Verse/icon.png",
+        "fileHash": "sha256-fabb01e9ba2d60bc7ee64d424256b69e148ee700209252564afa4ef8ce09fdf5",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/crazydipanjan2/crazydipanjancsextension",
+        "fileSize": 69348,
+        "status": 1,
+        "language": "ta",
+        "authors": [
+            "NivinCNC"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 69,
+        "internalName": "CNC Verse",
+        "description": "Netflix, PrimeVideo, Disney+ Hotstar Contents in Multiple Languages",
+        "url": "https://raw.githubusercontent.com/crazydipanjan2/crazydipanjancsextension/builds/CNC Verse.cs3",
+        "name": "CNC Verse"
+    },
+    {
+        "iconUrl": "https://cricfy.pro/wp-content/uploads/2024/11/cropped-cricfytv-2.png",
+        "fileHash": "sha256-a91b46d59ccf0546a3628d27db3a68252379d71a4939b38e0beda9bdcc8dd653",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/crazydipanjan2/crazydipanjancsextension",
+        "fileSize": 86809,
+        "status": 1,
+        "language": "ta",
+        "authors": [
+            "NivinCNC"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 41,
+        "internalName": "CricifyProvider",
+        "description": "Watch Live sports and TV channels",
+        "url": "https://raw.githubusercontent.com/crazydipanjan2/crazydipanjancsextension/builds/CricifyProvider.cs3",
+        "name": "CricifyProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=desi-serials.to&sz=%size%",
+        "fileHash": "sha256-c4f1c7c04fdeab9fe56f15a8b3d5803ab16f8858beff72ae90eb32309dff8101",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/crazydipanjan2/crazydipanjancsextension",
+        "fileSize": 33399,
+        "status": 1,
+        "language": "hi",
+        "authors": [
+            "NivinCNC"
+        ],
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "version": 10,
+        "internalName": "DesiSerialsProvider",
+        "description": "Desi Serials Tv Shows Provider",
+        "url": "https://raw.githubusercontent.com/crazydipanjan2/crazydipanjancsextension/builds/DesiSerialsProvider.cs3",
+        "name": "DesiSerialsProvider"
+    },
+    {
+        "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/DoFlixProvider/icon.png",
+        "fileHash": "sha256-1db27557a86cc9f46e20de21436ed61d0038aaf433bc2af2657f7a1035476a26",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/crazydipanjan2/crazydipanjancsextension",
+        "fileSize": 63404,
+        "status": 1,
+        "language": "ta",
+        "authors": [
+            "NivinCNC"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 15,
+        "internalName": "DoFlixProvider",
+        "description": "DoFlix Provider for Movies and TV Series",
+        "url": "https://raw.githubusercontent.com/crazydipanjan2/crazydipanjancsextension/builds/DoFlixProvider.cs3",
+        "name": "DoFlixProvider"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/master/EinthusanProvider/icon.png",
+        "fileHash": "sha256-de0e8b9f38de8037a0a2c733946af1cb030ee6a12a2311bcffbdb282f114d6d9",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/crazydipanjan2/crazydipanjancsextension",
+        "fileSize": 18440,
+        "status": 1,
+        "language": "ta",
+        "authors": [
+            "NivinCNC"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 17,
+        "internalName": "EinthusanProvider",
+        "description": "Indian Multi-language HD Provider",
+        "url": "https://raw.githubusercontent.com/crazydipanjan2/crazydipanjancsextension/builds/EinthusanProvider.cs3",
+        "name": "EinthusanProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=goldenaudiobook.com/&sz=%size%",
+        "fileHash": "sha256-14da34a0701d1029295df585fff175515ff2cc8de7a216f8b9a260fc4d42aeb0",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/crazydipanjan2/crazydipanjancsextension",
+        "fileSize": 14668,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "NivinCNC"
+        ],
+        "tvTypes": [
+            "Others"
+        ],
+        "version": 12,
+        "internalName": "GoldenAudiobook",
+        "description": "Audiobooks - Use Picture in Picture or VLC as external player",
+        "url": "https://raw.githubusercontent.com/crazydipanjan2/crazydipanjancsextension/builds/GoldenAudiobook.cs3",
+        "name": "GoldenAudiobook"
+    },
+    {
+        "iconUrl": "https://images.dwncdn.net/images/t_app-icon-l/p/b0c9663c-0d61-4941-b12f-91c58c06189f/1137087733/hdo-box-logo",
+        "fileHash": "sha256-075986c767eecf0094062f48c133d98b963dfcb5fa16c11e77ee3be02d1ac55d",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/crazydipanjan2/crazydipanjancsextension",
+        "fileSize": 26486,
+        "status": 0,
+        "language": "ta",
+        "authors": [
+            "NivinCNC"
+        ],
+        "tvTypes": [
+            "Movies",
+            "TvSeries"
+        ],
+        "version": 15,
+        "internalName": "HDOProvider",
+        "description": "HDO provider",
+        "url": "https://raw.githubusercontent.com/crazydipanjan2/crazydipanjancsextension/builds/HDOProvider.cs3",
+        "name": "HDOProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=rezka.ag&sz=%size%",
+        "fileHash": "sha256-24aaddae797e541a72bf2c7be09bc399b168c80e061878c58c2bd31fca892473",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/crazydipanjan2/crazydipanjancsextension",
+        "fileSize": 33855,
+        "status": 1,
+        "language": "ru",
+        "authors": [
+            "Hexated, NivinCNC"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 14,
+        "internalName": "HDrezkaProvider",
+        "url": "https://raw.githubusercontent.com/crazydipanjan2/crazydipanjancsextension/builds/HDrezkaProvider.cs3",
+        "name": "HDrezkaProvider"
+    },
+    {
+        "iconUrl": "https://librivox.org/wp-content/themes/librivox/images/librivox-logo.png",
+        "fileHash": "sha256-1fc0012365c2103c546125a7e5b5796a3db9c7dac4dd695339dcc3053b5c3e98",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/crazydipanjan2/crazydipanjancsextension",
+        "fileSize": 12651,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "KillerDogeEmpire, NivinCNC"
+        ],
+        "tvTypes": [
+            "Others"
+        ],
+        "version": 12,
+        "internalName": "LibriVoxAudiobook",
+        "description": "Audiobooks in public domain",
+        "url": "https://raw.githubusercontent.com/crazydipanjan2/crazydipanjancsextension/builds/LibriVoxAudiobook.cs3",
+        "name": "LibriVoxAudiobook"
+    },
+    {
+        "iconUrl": "https://mlsbd.co/wp-content/uploads/2020/08/MLSBD-Logo.png",
+        "fileHash": "sha256-f33a4539560ba106f6d7b4a26d6d641a89f271337308078d8d91d2effd71d375",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/crazydipanjan2/crazydipanjancsextension",
+        "fileSize": 48441,
+        "status": 1,
+        "language": "bn",
+        "authors": [
+            "NivinCNC"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "NSFW",
+            "AnimeMovie",
+            "AsianDrama"
+        ],
+        "version": 9,
+        "internalName": "MLSBDProvider",
+        "description": "The largest movie link store in Bangladesh",
+        "url": "https://raw.githubusercontent.com/crazydipanjan2/crazydipanjancsextension/builds/MLSBDProvider.cs3",
+        "name": "MLSBDProvider"
+    },
+    {
+        "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/MovieBoxProvider/icon.png",
+        "fileHash": "sha256-8d455db8c7ec3b6f7f8a1bf2137339320cb90717a4e5091dafe4ba3b5548239a",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/crazydipanjan2/crazydipanjancsextension",
+        "fileSize": 70451,
+        "status": 1,
+        "language": "ta",
+        "authors": [
+            "NivinCNC"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 23,
+        "internalName": "MovieBoxProvider",
+        "description": "Multi Language Movies and Series Provider",
+        "url": "https://raw.githubusercontent.com/crazydipanjan2/crazydipanjancsextension/builds/MovieBoxProvider.cs3",
+        "name": "MovieBoxProvider"
+    },
+    {
+        "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/MovieBoxProviderIN/icon.png",
+        "fileHash": "sha256-5ecf69e8158e80bce79e5787c0b50aea71017d6551293a0d0ee8868a537492e2",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/crazydipanjan2/crazydipanjancsextension",
+        "fileSize": 68020,
+        "status": 1,
+        "language": "ta",
+        "authors": [
+            "NivinCNC"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 25,
+        "internalName": "MovieBoxProviderIN",
+        "description": "Multi Language Movies and Series Provider (Local homepage based on region)",
+        "url": "https://raw.githubusercontent.com/crazydipanjan2/crazydipanjancsextension/builds/MovieBoxProviderIN.cs3",
+        "name": "MovieBoxProviderIN"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/master/MoviezwapProvider/icon.png",
+        "fileHash": "sha256-9169e2f8ac2bee4c22f33e4f87b341d4659c5a4969cb8f95adcf77b3999f629b",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/crazydipanjan2/crazydipanjancsextension",
+        "fileSize": 17355,
+        "status": 1,
+        "language": "te",
+        "authors": [
+            "NivinCNC"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 11,
+        "internalName": "MoviezwapProvider",
+        "description": "Telugu Movies Provider - Moviezwap",
+        "url": "https://raw.githubusercontent.com/crazydipanjan2/crazydipanjancsextension/builds/MoviezwapProvider.cs3",
+        "name": "MoviezwapProvider"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/refs/heads/master/PikashowProvider/logo.png",
+        "fileHash": "sha256-e232fa9489498210568d10dbce60de90cdf9d6c0cff77153a1b9b56dc7b80ce3",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/crazydipanjan2/crazydipanjancsextension",
+        "fileSize": 60011,
+        "status": 1,
+        "language": "ta",
+        "authors": [
+            "NivinCNC"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 12,
+        "internalName": "PikashowProvider",
+        "description": "Stream movies and series from Pikashow",
+        "url": "https://raw.githubusercontent.com/crazydipanjan2/crazydipanjancsextension/builds/PikashowProvider.cs3",
+        "name": "PikashowProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=playztv.top&sz=%size%",
+        "fileHash": "sha256-409d66381dcc09df5d23345b0e50c582753a3356ff84282073f580e736162fbf",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/crazydipanjan2/crazydipanjancsextension",
+        "fileSize": 79685,
+        "status": 1,
+        "language": "ta",
+        "authors": [
+            "NivinCNC"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 7,
+        "internalName": "PlayZTVProvider",
+        "description": "Watch Live TV channels & sports via PlayZTV",
+        "url": "https://raw.githubusercontent.com/crazydipanjan2/crazydipanjancsextension/builds/PlayZTVProvider.cs3",
+        "name": "PlayZTVProvider"
+    },
+    {
+        "iconUrl": "https://cdn.mytuner.mobi/static/ctr/icons/App_192x192/in.png",
+        "fileHash": "sha256-5ee1d548b3515b917b839654be652271923adc098b15642c380958625c8abd14",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/crazydipanjan2/crazydipanjancsextension",
+        "fileSize": 13667,
+        "status": 1,
+        "language": "ta",
+        "authors": [
+            "NivinCNC"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 12,
+        "internalName": "RadioIndiaProvider",
+        "description": "Radio India Provider",
+        "url": "https://raw.githubusercontent.com/crazydipanjan2/crazydipanjancsextension/builds/RadioIndiaProvider.cs3",
+        "name": "RadioIndiaProvider"
+    },
+    {
+        "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/Rtally/icon.png",
+        "fileHash": "sha256-5cea330beba04a62431d538469e9f27c61ce9a2d6e05719b450192e2742816b2",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/crazydipanjan2/crazydipanjancsextension",
+        "fileSize": 16360,
+        "status": 1,
+        "language": "ta",
+        "authors": [
+            "Redowan, NivinCNC"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "AnimeMovie",
+            "AsianDrama"
+        ],
+        "version": 27,
+        "internalName": "Rtally",
+        "description": "Movie and TV Series provider",
+        "url": "https://raw.githubusercontent.com/crazydipanjan2/crazydipanjancsextension/builds/Rtally.cs3",
+        "name": "Rtally"
+    },
+    {
+        "iconUrl": "https://appteka.store/get/a20p17EuCKFD08AaFsfH3JSJ6OU30ccp18WrKaNDze4LqOsDArhKj13-f-SjAayiWJH6P6pv9AlzhcfzEXlmRokU-I4=/726bbb91e36da425f55efce72cccb3a82df1d265.png",
+        "fileHash": "sha256-d5596107847fc354ca3b6ff198c291ffed2769d6ab5f73539d100d1c97b6b540",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/crazydipanjan2/crazydipanjancsextension",
+        "fileSize": 92857,
+        "status": 1,
+        "language": "ta",
+        "authors": [
+            "NivinCNC"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 21,
+        "internalName": "SKTechProvider",
+        "description": "Watch Live sports and TV channels via SK Tech",
+        "url": "https://raw.githubusercontent.com/crazydipanjan2/crazydipanjancsextension/builds/SKTechProvider.cs3",
+        "name": "SKTechProvider"
+    },
+    {
+        "iconUrl": "https://play-lh.googleusercontent.com/7geBQBtW_yN70BU81Oi2SoZvYsj5VoYrI4FmUNdqWQlchtExJb7XE_1BQysGzgJ6mBU",
+        "fileHash": "sha256-9d440fa42f78e2ef4cdac9af104bb46a67e02ae31c7ab5d3555ea78078711487",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/crazydipanjan2/crazydipanjancsextension",
+        "fileSize": 44070,
+        "status": 1,
+        "language": "ta",
+        "authors": [
+            "NivinCNC"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime"
+        ],
+        "version": 14,
+        "internalName": "StreamFlixProvider",
+        "description": "StreamFlix Multi Language Movies and Series Provider",
+        "url": "https://raw.githubusercontent.com/crazydipanjan2/crazydipanjancsextension/builds/StreamFlixProvider.cs3",
+        "name": "StreamFlixProvider"
+    },
+    {
+        "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/TamilDhoolProvider/icon.png",
+        "fileHash": "sha256-c23a0dd2aac4713c6eb10b72534768701067eb3708d35b50c84dd91f02e739fc",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/crazydipanjan2/crazydipanjancsextension",
+        "fileSize": 21630,
+        "status": 1,
+        "language": "ta",
+        "authors": [
+            "NivinCNC"
+        ],
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "version": 16,
+        "internalName": "TamilDhoolProvider",
+        "description": "Tamil Tv Serial/Shows Provider",
+        "url": "https://raw.githubusercontent.com/crazydipanjan2/crazydipanjancsextension/builds/TamilDhoolProvider.cs3",
+        "name": "TamilDhoolProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=tamilian.io&sz=%size%",
+        "fileHash": "sha256-6ae81f372430c8bb7a278ccbde3d0ffd5968c3edad41fe2bd09457026035123e",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/crazydipanjan2/crazydipanjancsextension",
+        "fileSize": 16679,
+        "status": 1,
+        "language": "ta",
+        "authors": [
+            "NivinCNC"
+        ],
+        "tvTypes": [
+            "Movies"
+        ],
+        "version": 12,
+        "internalName": "Tamilian",
+        "description": "Movies (Tamil)",
+        "url": "https://raw.githubusercontent.com/crazydipanjan2/crazydipanjancsextension/builds/Tamilian.cs3",
+        "name": "Tamilian"
+    },
+    {
+        "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/TamilUltraProvider/icon.png",
+        "fileHash": "sha256-dcafa3515353e1a49f99d7b6763c37fe10be740e83b4f0984b761f392fe75212",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/crazydipanjan2/crazydipanjancsextension",
+        "fileSize": 13803,
+        "status": 1,
+        "language": "ta",
+        "authors": [
+            "NivinCNC"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 19,
+        "internalName": "TamilUltraProvider",
+        "description": "Indian Live TV Provider",
+        "url": "https://raw.githubusercontent.com/crazydipanjan2/crazydipanjancsextension/builds/TamilUltraProvider.cs3",
+        "name": "TamilUltraProvider"
+    },
+    {
+        "iconUrl": "https://editorialge.com/wp-content/uploads/2023/07/Watch32..jpg",
+        "fileHash": "sha256-ff3d43eda2f73c812afa936486bfa289c4e15c7b529d9b3ed20fc17e5bef6404",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/crazydipanjan2/crazydipanjancsextension",
+        "fileSize": 29358,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "NivinCNC"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 14,
+        "internalName": "Watch32",
+        "description": "Watch32 is a Free Movies streaming site with over 10000 movies and TV-Series.",
+        "url": "https://raw.githubusercontent.com/crazydipanjan2/crazydipanjancsextension/builds/Watch32.cs3",
+        "name": "Watch32"
+    },
+    {
+        "iconUrl": "https://play-lh.googleusercontent.com/zVq_wAus2snoO-ggyI6IomlsCzfybAozQOGYpBrv71r1--rOYOYWsr_N7DWwVp9t7ro=s248-rw",
+        "fileHash": "sha256-d1dd0b8a167cb479a6d208f3c07a5bf414896861ef3afc80da727c68edc5cc01",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/crazydipanjan2/crazydipanjancsextension",
+        "fileSize": 42018,
+        "status": 1,
+        "language": "ta",
+        "authors": [
+            "NivinCNC"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime"
+        ],
+        "version": 15,
+        "internalName": "XonProvider",
+        "description": "Xon Provider for Anime and Cartoons - Tamil, Hindi, Telugu, English, Japanese",
+        "url": "https://raw.githubusercontent.com/crazydipanjan2/crazydipanjancsextension/builds/XonProvider.cs3",
+        "name": "XonProvider"
+    }
+]
