@@ -54,7 +54,7 @@ subprojects {
 
     cloudstream {
         setRepo(System.getenv("GITHUB_REPOSITORY") ?: "https://github.com/crazydipanjan2/crazydipanjancsextension")
-        authors = listOf("crazydipanjan 2")
+        authors = listOf("crazydipanjan2")
     }
 
     android {
