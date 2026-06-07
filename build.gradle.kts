@@ -13,7 +13,7 @@ buildscript {
     }
 
     dependencies {
-        classpath("com.android.tools.build:gradle:8.1.2")
+        classpath("com.android.tools.build:gradle:8.1.4")
         classpath("com.github.recloudstream.gradle:gradle:81b1d424d")
         classpath("org.jetbrains.kotlin:kotlin-gradle-plugin:1.9.20")
     }
@@ -27,7 +27,6 @@ allprojects {
     }
 }
 
-// Helper to read secret (Bypassed for individual fork compatibility)
 fun getSecret(key: String, fallback: String = ""): String {
     return fallback
 }
@@ -54,7 +53,7 @@ subprojects {
             compileSdkVersion(34)
             targetSdk = 34
 
-            // Bypassed Secrets - Empty strings to prevent build failure
+            // Empty strings to prevent build failure on individual fork
             buildConfigField("String", "MOVIEBOX_SECRET_KEY_DEFAULT", "\"\"")
             buildConfigField("String", "MOVIEBOX_SECRET_KEY_ALT", "\"\"")
             buildConfigField("String", "CASTLE_SUFFIX", "\"\"")
@@ -121,6 +120,8 @@ subprojects {
         implementation("org.mozilla:rhino:1.7.14")
         implementation("me.xdrop:fuzzywuzzy:1.4.0")
         implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.6.0")
+        implementation("com.github.vidstige:jadb:v1.2.1")
+        implementation("org.bouncycastle:bcpkix-jdk15on:1.70")
     }
 }
 
