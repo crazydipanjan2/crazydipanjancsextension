@@ -25,10 +25,6 @@ Cloud Stream ( To install : [View Docs](https://recloudstream.github.io/csdocs/)
 
 ### To Install Repo
 
-1) Direct Install : [Install](https://cutt.ly/qrQa38ja)
-
-2) Short code : cncv
-
 3) Manual Install (Copy and Paste in add Repo of Cloud Stream) :
 
         https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/refs/heads/builds/CNC.json
